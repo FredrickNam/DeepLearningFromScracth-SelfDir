@@ -4,4 +4,11 @@ This project focuses on implementing deep learning algorithms from scratch
 Learning about DL **without using high-level libraries**, based on the book by **Koki Saito**.
 
 
---CH01 & CH02 was about Python basics--
+
+
+
+
+
+
+**Note:**
+**Chapters 01 & 02 (Python Basics)** were reviewed for prerequisite knowledge but are not included in this repository.
